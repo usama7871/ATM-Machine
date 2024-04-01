@@ -1,0 +1,17 @@
+{
+  "name": "project03-atm",
+  "version": "1.0.0",
+  "description": "simple atm machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "usama",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
